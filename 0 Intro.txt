@@ -1,0 +1,17 @@
+Open source 
+From Microsoft
+Compiles to plain js 
+	-Typescript is - extended js 
+	Superior to dart
+
+Optional static typing (Adds type support to js)
+	- Type inference 
+	- Less error prone
+	- JS - Dynaimcally typed
+
+IDE support 
+	- refactor code easily 
+	- error + description 
+	- less time in debugging 
+
+Basic for Angular
