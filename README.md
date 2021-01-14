@@ -1,5 +1,4 @@
 # Typescript-basics-
-Typescript basics 
 
 Install nodejs from https://nodejs.org/en/
 
