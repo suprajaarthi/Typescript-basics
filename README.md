@@ -8,6 +8,6 @@ npm install -g typescript
 Configure C:\Users\Duest PC\AppData\Roaming\npm to Environment path variable 
 
 To automatically recompile whenever there is a change 
-tsc 1Variables --watch
+tsc filename --watch
 
 Run node filename.js
